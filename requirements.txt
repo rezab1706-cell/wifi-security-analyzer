@@ -1,0 +1,31 @@
+# Core Dependencies
+scapy==2.5.0
+netifaces==0.11.0
+ipaddress==1.0.23
+
+# GUI Dependencies
+tkinter-tools==1.0.0
+Pillow==10.0.0
+
+# Network Analysis
+pyshark==0.6
+pcapy==1.0.0
+impacket==0.11.0
+
+# Password & Encryption
+pycryptodome==3.18.0
+wifi==0.7.0
+
+# Utilities
+colorama==0.4.6
+tqdm==4.66.1
+requests==2.31.0
+pandas==2.0.3
+
+# CLI
+click==8.1.7
+rich==13.5.2
+
+# Windows Specific
+pywin32==306
+windows-curses==2.3.0
